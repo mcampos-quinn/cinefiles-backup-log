@@ -14,6 +14,7 @@ Our backups will as of 2016 be on a DROBO system, and we will run this script mo
 
 ###Contributors
 Michael Campos-Quinn
-The file size calculation came from this Stack Exchange thread:
+
+The file size calculation came from this Stack Overflow thread:
 
 http://stackoverflow.com/questions/14996453/python-libraries-to-calculate-human-readable-filesize-from-bytes
