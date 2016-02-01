@@ -42,8 +42,8 @@ with open("Desktop/cinefiles-backup-log_"+today+".csv", "wb")as bu:
     for row in rows:
         writer.writerow(row)
 
-print(imageFilePaths)
-print(lastModified)
-print(imageMIME)
-print(fileNames)
-print(fileSize)
+# print(imageFilePaths)
+# print(lastModified)
+# print(imageMIME)
+# print(fileNames)
+# print(fileSize)
